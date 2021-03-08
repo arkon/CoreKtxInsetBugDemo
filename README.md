@@ -2,10 +2,6 @@ Sample project demonstrating navigation bar inset issue when in fullscreen using
 
 Issue: https://issuetracker.google.com/issues/182063672
 
-`beta01`:
-
-![](screenshot-beta01.png)
-
-`beta02`:
-
-![](screenshot-beta02.png)
+| `beta01` | `beta02` |
+| - | - |
+| ![](screenshot-beta01.png) | ![](screenshot-beta02.png) |
